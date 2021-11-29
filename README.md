@@ -22,8 +22,8 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://vuejs.org/images/logo.svg"
             alt="android studio" width="40" height="40" /> </a>
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://nuxtjs.org/logos/nuxt-square-white.svg"
+    <a href="https://developer.android.com/studio" target="_blank" title="Nuxt JS"> <img
+            src="https://nuxtjs.org/design-kit/colored-white-text.svg"
             alt="android studio" width="40" height="40" /> </a>
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png"
