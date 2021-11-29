@@ -26,7 +26,7 @@ Here are some ideas to get you started:
             src="https://nuxtjs.org/logos/nuxt-square-white.svg"
             alt="android studio" width="40" height="40" /> </a>
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png"
             alt="android studio" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
