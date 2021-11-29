@@ -24,15 +24,12 @@ Here are some ideas to get you started:
             alt="android studio" width="40" height="40" /> </a>
     <a href="https://developer.android.com/studio" target="_blank" title="Nuxt JS"> <img
             src="https://nuxtjs.org/design-kit/colored-white-text.svg"
-            alt="android studio" width="40" height="40" /> </a>
+            alt="android studio" width="90" height="40" /> </a>
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png"
             alt="android studio" width="40" height="40" /> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-            alt="azure" width="50" height="35" /> </a>
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-220px-Amazon_Web_Services_Logo.svg.png"
             alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
